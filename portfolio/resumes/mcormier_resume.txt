@@ -1,0 +1,132 @@
+__.-='~^~'====================================================='~^~'=-.__
+                        Matthieu Cormier - Resume
+__.-='~^~'====================================================='~^~'=-.__
+
+
+Contact Information
+------------------------------------------------------------------------
+116 Driftwood Crescent, Dartmouth, Nova Scotia
+Phone: 902.229.1677   
+Email: mcormier@cs.dal.ca
+
+
+Relevant Skills and Qualifications
+------------------------------------------------------------------------
+    * Work well collaboratively and independently
+    * Knowledgeable with a broad range of programming languages and
+      computing platforms
+    * Excellent troubleshooter
+    * Effective communicator
+    * Exceptional attention to detail
+    * Comprehensive portfolio available
+      (http://www.cs.dal.ca/~mcormier/portfolio)
+    
+
+Education
+------------------------------------------------------------------------
+    Bachelor of Computer Science, 2003
+    Dalhousie University (Halifax, Nova Scotia, Canada)
+    
+    
+
+Professional Experience
+------------------------------------------------------------------------
+    Product Development
+    abridean (Halifax, Nova Scotia)
+    Winter 2006-Present
+    
+    abridean provides a user management and provisioning product for mid
+    to large size enterprises. The flagship product "Provisor" tracks
+    and automates the provisioning of applications to users, and is
+    highly customized for each customer deployment. Provisor is built
+    with a mixture of Java, Java beanshell scripts, and a proprietary
+    XML workflow language. As a member of the product development team
+    my responsibilities include fixing product defects, writing tests,
+    designing and adding new features. Defect resolution and feature
+    additions require careful consideration of customer deployments to
+    reduce overall costs over the long-term. Technologies used regularly
+    include JUnit, JMock, Ant, Subversion.
+    
+    .....................................................................
+    
+    Level 3 Support Engineer
+    Versata Incorporated (Bedford, Nova Scotia)
+    Fall 2004-Winter 2006
+    
+    The company's product offering facilitates generation of J2EE
+    applications through the use of code generation and rules based
+    business logic. Duties involved fixing defects, backporting of
+    critical hotfixes and adding enhancements to the product on a
+    quarterly release schedule. Fulfillment of these tasks required the
+    use of many different combinations of webservers ( WebSphere, JBoss,
+    Weblogic) and databases (Oracle, mySql, SqlServer, DB2).
+    Technologies used regularly include, Java, JUnit, Perforce, Ant.
+    
+    .....................................................................
+    
+    Software Developer/Operations/Tier 2 support
+    Gegy Canada Ltd. (Dartmouth, Nova Scotia)
+    Fall 2003-Fall 2004
+    
+    Developed and deployed a web-based service provider application
+    (ASP) using Java, JSP, Servlets, JUnit, Struts, Tomcat, Apache and
+    Oracle. Responsible for daily operations of application after
+    deployment. Documented and fixed issues discovered from feedback and
+    interaction with established user base. Created tools to facilitate
+    automation of daily operations tasks in a unix environment using
+    Java, and unix shell scripts.
+    
+    .....................................................................
+    
+    Software Developer
+    VR interactive (Halifax, Nova Scotia)
+    Fall 2001-Summer 2002
+    
+    Software developer for Surround Photo; a cross platform product (PC
+    and Macintosh) which processes and displays panorama photographs
+    taken with a 360 degree mirror. Development was primarily C++ using
+    the PowerPlant and MFC frameworks. Notable achievements include,
+    carbonizing the Macintosh version, fixing defects, testing the
+    product, and finding and squashing memory leaks.
+    
+    .....................................................................
+    
+    Software Developer
+    OEone Corporation (Halifax, Nova Scotia)
+    Spring 2001
+    
+    Created user interfaces with Mozilla requiring integration of
+    several software components (JavaScript, CSS, XUL, XML and XPCOM).
+    
+    .....................................................................
+    
+    Teacher's Assistant
+    Dalhousie University (Halifax, Nova Scotia)
+    Fall 2000-Spring 2001
+    
+    Aided students from first to fourth year with computer programming
+    problems and helped them gain familiarity with the software tools
+    necessary to solve those problems.
+    
+    .....................................................................
+    
+    Software Developer and Network Technician
+    Pictorius Incorporated (Halifax, Nova Scotia)
+    Winter 1999 and Winter 2000 - Summer 2000
+    
+    Developed internal and external web-based applications requiring
+    knowledge of several software components and their integration.
+    Revamped and secured network, adding a firewall, proxy server and
+    VPN server. Performed assorted database administration tasks. Worked
+    with a variety of software components: Prograph, SQL Server, ASP,
+    php, CGI, JSP, Java.
+    
+
+Awards and Activities
+------------------------------------------------------------------------
+    * ESL (english as a second language) Tutor
+    * Skills Transcript for "Critical Thinking. Written Communication"
+    * French Bilingual Certificate (High School French Immersion
+      Program)
+    * International Exchange student, Fall 1999
+    

@@ -1,0 +1,106 @@
+
+
+Body 
+{
+	color: black;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 250px;
+	font:  .95em/1.5 Verdana, Arial, Helvetica, sans-serif;
+	text-align: justify;
+	background-image: url(images/sidebar.gif);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+
+
+
+h1, h2, h3, h4, h5, h6  
+{
+    font-family:  Palatino, Book Antiqua, Arial, sans-serif;
+    color: #006699;
+}
+    
+
+.section 
+{
+	font-family:  Palatino, Book Antiqua;
+	color: #000000;
+	letter-spacing: 0.3em;
+}
+
+
+h1.crumbs 
+{
+	text-align: left;
+}
+
+ 
+.filesize
+{
+	font:  .80em/0.4 Verdana, Arial, Helvetica, sans-serif;
+	color: #222222;
+}
+    
+a  
+{
+	text-decoration:  none;
+	font-weight: 600;
+}
+   
+a.menu
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #222222;
+	font-weight: normal;
+	font-size: 10pt;
+}
+
+a.menu:hover
+{
+	color:  blue;
+	background: #EEEEEE;
+}
+
+a.menu:visited
+{
+	color: #222222;
+}
+
+a.menu:link
+{
+	color: #222222;
+}
+a.menu:active
+{
+	color: #222222;
+}
+    
+a:link  
+{
+	color:  #003366;
+}
+
+a:visited  
+{
+	color:  green;
+}
+
+a:active  
+{
+	color:  red;
+}
+
+td.title
+{
+	background: #eeeeee;
+	padding: 0px 0px 0px 0px;
+}
+
+td.contentlist
+{
+	background: #ddd;
+	padding: 0px 20px 0px 20px;
+}
